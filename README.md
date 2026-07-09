@@ -47,6 +47,13 @@ We will only follow steps 1-3. The rest of the guide is not accurate for this wo
 
 ## Resources
 
+Tools:
+
+- https://github.com/pubky/pubky-explorer - Pubky Explorer to inspect the data on your homeserver.
+- https://github.com/pubky/pubky-app-templates - App templates directory.
+
+Websites:
+
 - https://pubky.org - Main Pubky documentation and concepts.
 - https://pubky.app - Social media platform built on Pubky and reference implementation.
 - https://pubky.tech - Awesome list of Pubky projects, tools, and examples.
